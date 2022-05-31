@@ -1,1 +1,1 @@
-"# dados-enem-valparaiso" 
+Projeto proposto pela Alura para introdução a análise de dados utilizando os microdados do ENEM. Neste projeto, fiz uma análise descritiva e tirei conclusões sobre os dados utilizando o Google Colab. O foco foi na cidade de Valparaíso de Goiás, cidade onde resido, para ver como estava a situação da educação.
